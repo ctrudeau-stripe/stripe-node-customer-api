@@ -1,0 +1,22 @@
+{
+  "name": "stripe-node-customer-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctrudeau-stripe/stripe-node-customer-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ctrudeau-stripe/stripe-node-customer-api/issues"
+  },
+  "homepage": "https://github.com/ctrudeau-stripe/stripe-node-customer-api#readme",
+  "dependencies": {
+    "stripe": "^8.56.0"
+  }
+}
